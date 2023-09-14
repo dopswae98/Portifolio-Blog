@@ -25,6 +25,6 @@ Through the process of creating a full-stack ecommerce website for selling acces
 
 I am a highly skilled full-stack developer based in Harare with 3 years experience, with expertise in Python using Django for backend development and JavaScript with React, Node.js, and Next.js for frontend development. With my comprehensive knowledge of these languages and frameworks, I have the ability to create robust and scalable web applications. I excel in designing intuitive user experiences, implementing efficient server-side logic, and integrating seamless client-side functionalities. My passion for coding, attention to detail, and dedication to staying up-to-date with the latest industry trends allow me to deliver high-quality solutions that meet and exceed client expectations.
 
-https://github.com/dopswae98/Wholelight.git
-[wholelight.vercel.app](wholelight.vercel.app)
-http://www.linkedin.com/in/ephraimmatarutse
+* [https://github.com/dopswae98/Wholelight.git](https://github.com/dopswae98/Wholelight.git)
+* [wholelight.vercel.app](wholelight.vercel.app)
+* [http://www.linkedin.com/in/ephraimmatarutse](http://www.linkedin.com/in/ephraimmatarutse)
